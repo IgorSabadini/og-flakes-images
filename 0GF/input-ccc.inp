@@ -1,0 +1,9 @@
+! B3LYP D3BJ def2-SVP opt
+
+%PAL NPROCS 16 END
+
+%basis ECP "def2-ecp" end
+%maxcore 3500
+
+
+* XYZFILE 0 1 ccc_old_geom.xyz

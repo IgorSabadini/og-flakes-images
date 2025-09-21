@@ -1,0 +1,1 @@
+Português BR: Arquivos .xyz e imagens (a serem anexadas) de diversas configurações de um modelo para folhas de óxido de grafeno com variados graus de oxidação. Essas configurações foram otimizadas a partir do nível de teoria B3LYP/D3BJ pcj-0, utilizando o software ORCA. Também estão incluídos os arquivos de input para a otimização.
